@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Hopeson Ahamefula Jockiel
 
-<!--
-**Hopeson-Jockiel/hopeson-jockiel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Frontend Engineering Trainee**  
+💻 **Diploma in Software Engineering** – NIIT  
+📅 *Semptember 2024* – *Present*
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+I'm a passionate frontend engineer focused on crafting clean, responsive, and accessible web interfaces.  
+I enjoy learning new technologies, improving daily, and building real-world projects.
+
+- 🌱 Currently learning **React, Tailwind CSS, and next.js**
+- 🎨 Interested in **UI/UX design** and **mobile-first web apps**
+- ⚡ Fun fact: I love improving designs pixel by pixel
+
+---
+
+### 🛠️ Tech Stack
+**Frontend:** HTML, CSS, JavaScript, Tailwind CSS, React, next.js  
+**Tools:** Git, GitHub, VS Code, Figma
+
+---
+
+### 📫 Connect with Me
+- LinkedIn: www.linkedin.com/in/hopeson-jockiel-817259334
+- Portfolio: https://github.com/Hopeson-Jockiel
+- Email: jockielh@gmail.com
