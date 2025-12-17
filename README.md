@@ -12,7 +12,7 @@ I enjoy learning new technologies, improving daily, and building real-world proj
 
 - 🌱 Currently learning **React, Tailwind CSS, and next.js**
 - 🎨 Interested in **UI/UX design** and **mobile-first web apps**
-- ⚡ Fun fact: I love improving designs pixel by pixel
+- ⚡ Fun fact: I love building component based web application.
 
 ---
 
